@@ -16,7 +16,8 @@ in autonomous vehicle technology.
 
 Url For the Demonstration : https://www.youtube.com/watch?v=6dubNZhnc0c&ab_channel=YousefAl-Swidan
 
-![image](https://github.com/user-attachments/assets/d48ebb13-4cf8-4ec4-9073-afc4e69a4860)
+![image](https://github.com/user-attachments/assets/22b02029-e922-474d-ba10-55c3aadea3d3)
+
 
 This code is optimized for deployment on the Raspberry Pi 5, utilizing the Raspberry Pi Camera V2 and the LiDAR A1 from Slamtec. It is designed to seamlessly integrate these components for enhanced performance and functionality. 
 
