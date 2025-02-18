@@ -15,6 +15,8 @@ applications in robotics and autonomous systems, highlighting the potential for 
 in autonomous vehicle technology.
 
 Url For the Demonstration : https://www.youtube.com/watch?v=6dubNZhnc0c&ab_channel=YousefAl-Swidan
+
+
 **All thesis documentation, including the results, can be found in the file Bericht.pdf.**
 
 ![image](https://github.com/user-attachments/assets/22b02029-e922-474d-ba10-55c3aadea3d3)
