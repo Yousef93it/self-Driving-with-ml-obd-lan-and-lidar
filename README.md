@@ -18,6 +18,8 @@ Url For the Demonstration : https://www.youtube.com/watch?v=6dubNZhnc0c&ab_chann
 
 ![image](https://github.com/user-attachments/assets/22b02029-e922-474d-ba10-55c3aadea3d3)
 
+***All thesis documentation, including the results, can be found in the file Bericht.pdf.***
+
 
 This code is optimized for deployment on the Raspberry Pi 5, utilizing the Raspberry Pi Camera V2 and the LiDAR A1 from Slamtec. It is designed to seamlessly integrate these components for enhanced performance and functionality. 
 
